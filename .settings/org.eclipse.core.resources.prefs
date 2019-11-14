@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/main/java/extentx/ExtentManager.java=UTF-8
+encoding//src/main/java/extentx/ExtentTestNGITestListener.java=UTF-8
+encoding//src/main/java/mail/AutoMail.java=UTF-8
+encoding//src/main/java/mail/MailInfo.java=UTF-8
+encoding//src/main/java/mail/MyAuthenticator.java=UTF-8
+encoding//src/main/java/mail/ReadHtml.java=UTF-8
+encoding//src/main/java/mail/SendMail.java=UTF-8
+encoding//src/test/java/cases/BrowserTest.java=UTF-8
+encoding//src/test/java/cases/zendaotestTest.java=UTF-8
+encoding//src/test/java/util/RangeDatabyPOI.java=UTF-8
+encoding/<project>=UTF-8
