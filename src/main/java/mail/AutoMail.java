@@ -8,8 +8,6 @@ import java.util.Properties;
 
 import javax.mail.internet.AddressException;
 
-import base.ReadProperties;
-import mail.ReadHtml;
 
 public class AutoMail {
 	public static void main(String[] args) throws AddressException, FileNotFoundException, IOException {

@@ -18,7 +18,7 @@ public class BrowserTest {
 	private Logger logger = Logger.getLogger(Test.class);
 	WebDriver dr;
 	
-	//以下是固定寫法
+	//以下是固定写法
 	@DataProvider(name="muke")
 	public Object[][] getData() throws IOException{
 		String filepath="D:\\javastart\\testlink.xlsx";

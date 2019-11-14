@@ -12,6 +12,7 @@ import org.testng.annotations.Test;
 
 import tasks.baiduSerch;
 import util.Browser;
+import util.Httpclient;
 
 
 public class zendaotestTest {
@@ -26,11 +27,7 @@ public class zendaotestTest {
 		return array;
 	}
 	
-	@Test(dataProvider ="muke")
-	public void browser(String s1,String s2) throws InterruptedException{
-		baiduSerch.baiduSerch(dr, s1);
-		baiduSerch.baiduSerch(dr, s2);
-	}
+	
 	
 	
 	@Parameters({"browser","url"})
